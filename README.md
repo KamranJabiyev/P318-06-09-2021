@@ -15,3 +15,7 @@ https://www.w3schools.com/html/html_images.asp
 https://www.w3schools.com/html/html_lists.asp
 
 https://www.w3schools.com/html/html_blocks.asp
+
+Task:
+
+capture.png - yigmaq
